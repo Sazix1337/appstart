@@ -28,3 +28,5 @@ class AppStart {
         });
     }
 };
+
+module.exports = AppStart;
